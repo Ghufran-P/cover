@@ -1,0 +1,66 @@
+.imgbg{
+    background-image: url(bgimage.png);
+    background-size: 620px 1000px;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-color: rgb(16, 192, 192);
+    width: 620px;
+    height: 870px;
+    position: relative;
+}
+.rectangle {
+      width: 540px; 
+      height: 780px;
+      border: 2px solid white;
+      position: absolute;
+      top: 55px;
+      left: 50px;
+    }
+.lefttext{
+     position: absolute;
+     top: 50px;
+     left: 55px;
+     color: white;
+}
+.ctext{
+    position: absolute;
+    top: 30%; 
+    left: 3%;
+    color: gainsboro;
+}
+.mypic{
+    background-image: url(mypic0.png);
+    background-repeat: no-repeat;
+    position:absolute;
+      top: 580px;
+      left: 440px;
+      width: 200px;
+      height: 200px;
+      background-size: 100px;
+}
+.hline{
+    position: absolute;
+    width: 540px;
+    border: 1px solid darkgray;
+    top: 89%;
+    left: 50px;
+}
+.edition{
+    position: absolute;
+    top: 82%;
+    left: 50px;
+    color: azure;
+}
+.created
+{
+    position:absolute;
+    top: 86%;
+    left: 50px;
+    color: bisque;
+}
+.SEC{
+   position:absolute;
+    top: 96%;
+    left: 530px;
+    color: bisque; 
+}
